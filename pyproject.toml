@@ -1,0 +1,14 @@
+[project]
+name = "circle-contest"
+version = "0.1.0"
+description = "Circle Contest using RTS"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = [
+    "keyboard>=0.13.5",
+    "matplotlib>=3.9.4",
+    "numpy>=2.0.2",
+    "pandas>=2.3.0",
+    "pillow>=11.2.1",
+    "pyserial>=3.5",
+]
